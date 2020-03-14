@@ -1,6 +1,6 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
-    "description": "OpenAPI description for the Integration with MyDHL",
+    "name": "denis-cto/mydhl",
+    "description": "DHL PHP Wrapper",
     "keywords": [
         "openapitools",
         "openapi-generator",
